@@ -1,0 +1,3 @@
+Add-Computer A1211L -DomainName corp.ads.valuelabs.net -Credential swaran.allanki@valuelabs.com -Restart -Force
+
+rename-computer -computername OLDHOSTNAME -newname NEWHOSTNAME
