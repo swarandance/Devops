@@ -8,7 +8,7 @@ Create with valuename as  ProtectionPloicy REG_DWORD
 now rename that value name from 0 to 1
 then restart the laptop.
 
-brlow the link :
 
+Below is the Link:\\
 https://www.youtube.com/watch?v=Y7iAdGd5a44
 
