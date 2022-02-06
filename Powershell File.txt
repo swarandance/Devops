@@ -2,4 +2,4 @@ Add-Computer A1211L -DomainName corp.ads.valuelabs.net -Credential swaran.allank
 
 rename-computer -computername OLDHOSTNAME -newname NEWHOSTNAME
 
-it is a script 
+It's a script 
